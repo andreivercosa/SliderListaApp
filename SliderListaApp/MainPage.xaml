@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SliderListaApp"
+             x:Class="SliderListaApp.MainPage"
+             BackgroundImage="FundoApp.png"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Buscar" Clicked="Handle_Clicked"/>
+
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <Label Text="AC" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" 
+           x:Name="SgUF"
+               FontSize="100"
+           />
+        <Slider VerticalOptions="CenterAndExpand"
+                ValueChanged="listarUF"
+                x:Name="sliderUF"
+                Minimum="0"
+                Maximum="25"
+                MinimumTrackColor="Black"
+                MaximumTrackColor="Aquamarine"
+                ThumbColor="Yellow"
+                Margin="10"
+               ThumbImage="bola.png"
+                
+            />
+    </StackLayout>
+</ContentPage>

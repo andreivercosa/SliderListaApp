@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{4B0D846D-306C-4B60-8D10-C88778500B73}|Default">
+  <MonoDevelop.Ide.ItemProperties.SliderListaApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SliderListaApp/Model/UFs.cs">
+    <Files>
+      <File FileName="SliderListaApp/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="SliderListaApp/Model/Municipios.cs" Line="6" Column="9" />
+      <File FileName="SliderListaApp/MunicipiosPage.xaml" Line="19" Column="15" />
+      <File FileName="SliderListaApp/MunicipiosPage.xaml.cs" Line="16" Column="20" />
+      <File FileName="SliderListaApp/MainPage.xaml.cs" Line="26" Column="89" />
+      <File FileName="SliderListaApp/Model/UFs.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SliderListaApp" expanded="True">
+            <Node name="SliderListaApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="UFs.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MunicipiosPage.xaml" expanded="True" />
+            </Node>
+            <Node name="SliderListaApp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SliderListaApp.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+</Properties>
